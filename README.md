@@ -4,8 +4,11 @@
 
 ## Features
 ✅ Add and list products
+
 ✅ Validations for empty names
+
 ✅ H2 database (file-based to persist after restart)
+
 ✅ Ready for Docker or deployment
 
 ## Running locally
